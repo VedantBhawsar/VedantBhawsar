@@ -1,4 +1,10 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/97240349/225805827-5c93d457-22c4-40d3-b89f-5b8b4a31a795.gif"/>
+</div>
+
+#### <h1 align="center">Hi 👋, I'm Vedant Bhavsar</h1>
+
+<h4 align="center">MERN Stack Developer | Android </h4> 
 
 # 💫 About Me:
 🔭 I’m currently working on Chatmate Application.<br>🌱 I’m currently learning Next Js and React Native.<br>💬 Ask me about React Js, Node Js<br>⚡ People who are left-handed make up only about 10% of the population and I am one of them.<br>
