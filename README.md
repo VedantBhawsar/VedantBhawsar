@@ -28,8 +28,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-<div align="center">
 # Show some ❤️ by starring some of the repositories!
+<div align="center">
   
 ![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
 </div>
