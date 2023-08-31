@@ -28,7 +28,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-# Show some ❤️ by starring some of the repositories!
+### Show some ❤️ by starring some of the repositories!
 <div align="center">
   
 ![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
