@@ -9,6 +9,8 @@
 # 💫 About Me:
 🔭 I’m currently working on Chatmate Application.<br>🌱 I’m currently learning Next Js and React Native.<br>💬 Ask me about React Js, Node Js<br>⚡ People who are left-handed make up only about 10% of the population and I am one of them.<br>
 
+<a href=#><img src="contributions.svg" ></a>
+</div>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Vedant#6729) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/simply.vedant) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vedant-bhavsar-4742b2225) 
