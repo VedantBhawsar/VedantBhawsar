@@ -7,7 +7,7 @@
 <h4 align="center">Full Stack Developer | Android Developer</h4> 
 
 # 💫 About Me:
-🔭 I’m currently working on Chatmate Application.<br>🌱 I’m currently learning Next Js and React Native.<br>💬 Ask me about React Js, Node Js<br>⚡ People who are left-handed make up only about 10% of the population and I am one of them.<br>
+🔭 I’m currently working on Private project.<br>🌱 I’m currently learning Linux.<br>💬 Ask me about anything about coding.<br>⚡ People who are left-handed make up only about 10% of the population and I am one of them.<br>
 
 <a href=#><img src="contributions.svg" ></a>
 </div>
