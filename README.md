@@ -30,6 +30,7 @@
 
 <div align="center">
 <h4>Show some ❤️ by starring some of the repositories!</h4>
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7112382871092236288" height="328" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
   
-![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
 </div>
