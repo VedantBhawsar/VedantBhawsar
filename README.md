@@ -4,10 +4,10 @@
 
 #### <h1 align="center">Hi 👋, I'm Vedant Bhavsar</h1>
 
-<h4 align="center">Full Stack Developer | Android Developer</h4> 
+<h4 align="center">MERN | Android Developer</h4> 
 
 # 💫 About Me:
-🔭 I’m currently working on Private project.<br>🌱 I’m currently learning Linux.<br>💬 Ask me about anything about coding.<br>⚡ People who are left-handed make up only about 10% of the population and I am one of them.<br>
+🔭 I’m currently working on a Private project.<br>🌱 I’m currently learning Linux.<br>💬 Ask me about anything about coding.<br>⚡ I don't know everything. I only know what I know.<br>
 
 <a href=#><img src="contributions.svg" ></a>
 </div>
@@ -31,6 +31,5 @@
 <div align="center">
 <h4>Show some ❤️ by starring some of the repositories!</h4>
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7112382871092236288" height="328" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
   
 </div>
