@@ -7,7 +7,7 @@
 <h4 align="center">MERN | Android Developer</h4> 
 
 # 💫 About Me:
-🔭 I’m currently working on a Private project.<br>🌱 I’m currently learning Linux.<br>💬 Ask me about anything about coding.<br>⚡ I don't know everything. I only know what I know.<br>
+🔭 I’m currently building Bit🚀Ved.<br>💬 Ask me about anything about coding.<br>⚡ I don't know everything. I only know what I know.<br>
 
 <a href=#><img src="contributions.svg" ></a>
 </div>
