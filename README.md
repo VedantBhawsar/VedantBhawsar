@@ -7,7 +7,7 @@
 <h4 align="center">MERN Stack Developer</h4> 
 
 # 💫 About Me:
-🔭 I’m currently building Twitter Clone.<br>💬 Ask anything about coding.<br>⚡ I don't know everything. I only know what I know<br>
+🔭 I’m currently building Twitter Clone.<br>💬 Ask anything about coding.<br>⚡ I don't know everything. I only know what I know.<br>
 
 <a href=#><img src="contributions.svg" ></a>
 </div>
