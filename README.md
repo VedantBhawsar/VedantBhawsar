@@ -3,7 +3,7 @@
 </div>
 
 #### <h1 align="center">Hi 👋, I'm Vedant Bhavsar</h1>
-
+![](https://komarev.com/ghpvc/?username=VedantBhawsar)
 <h4 align="center">MERN Stack Developer</h4> 
 
 # 💫 About Me:
