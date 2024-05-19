@@ -4,12 +4,9 @@
 
 #### <h1 align="center">Hi 👋, I'm Vedant Bhavsar</h1>
 
-<div style="display:flex">
 ![](https://komarev.com/ghpvc/?username=VedantBhawsar)
-  <p>
-    hellow
-  </p>
-</div>
+
+
 <h4 align="center">MERN Stack Developer</h4> 
 
 # 💫 About Me:
