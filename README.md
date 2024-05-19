@@ -4,7 +4,7 @@
 
 #### <h1 align="center">Hi 👋, I'm Vedant Bhavsar</h1>
 
-<div style="display:"flex"">
+<div style="display:flex">
 ![](https://komarev.com/ghpvc/?username=VedantBhawsar)
   <p>
     hellow
