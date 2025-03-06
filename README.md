@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/97240349/225805827-5c93d457-22c4-40d3-b89f-5b8b4a31a795.gif"/>
 </div>
 
-#### <h1 align="center">Hi 👋, I'm Vedant Bhavsar</h1>
+#### <h1 align="center">Hi, I'm Vedant Bhavsar</h1>
 
 ![](https://komarev.com/ghpvc/?username=VedantBhawsar)
 
