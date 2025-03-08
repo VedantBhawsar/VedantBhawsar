@@ -11,7 +11,7 @@
 # 💫 About Me:
 🔭 I’m currently working on my saas website.<br>💬 Ask anything about coding.<br>⚡ I don't know everything. I only know what I know.<br>
 
-<a href=#><img src="contributions.svg" ></a>
+<a href=#><img src="contributions.svg" ></a> 
 </div>
 
 ## 🌐 Socials:
