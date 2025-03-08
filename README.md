@@ -32,6 +32,4 @@
 
 <div align="center">
 <h4>Show some ❤️ by starring some of the repositories!</h4>
-
-  
 </div>
