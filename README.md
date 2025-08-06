@@ -1,7 +1,3 @@
-<div align="center" cursor="default">
-  <img src="https://user-images.githubusercontent.com/97240349/225805827-5c93d457-22c4-40d3-b89f-5b8b4a31a795.gif"/>
-</div>
-
 #### <h1 align="center">Hi, I'm Vedant Bhavsar</h1> 
  
 ![](https://komarev.com/ghpvc/?username=VedantBhawsar) 
@@ -23,6 +19,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=VedantBhawsar&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VedantBhawsar&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VedantBhawsar&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=vedantbhawsar&theme=dark&hide_border=false)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=VedantBhawsar&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
