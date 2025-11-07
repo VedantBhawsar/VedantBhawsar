@@ -73,7 +73,7 @@ Fueled by ☕ caffeine, 📚 curiosity, and a passion for **innovation**.
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedantbhawsar&theme=chartreuse-dark&hide_border=true"/>
+   <img src="https://git-hub-streak-stats.vercel.app?user=vedantbhawsar&theme=catppuccin-macchiato&hide_border=true"/>
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=vedantbhawsar&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true"/>
