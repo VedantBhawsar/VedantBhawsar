@@ -66,20 +66,10 @@ Fueled by ☕ caffeine, 📚 curiosity, and a passion for **innovation**.
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/>
 </p>
 
----
 
-## 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td>
-   <img src="https://git-hub-streak-stats.vercel.app?user=vedantbhawsar&theme=chartreuse-dark&hide_border=true"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=vedantbhawsar&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true"/>
-    </td>
-  </tr>
-</table>
+![](https://github-readme-stats.vercel.app/api?username=vedantbhawsar&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=vedantbhawsar&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantbhawsar&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <table>
   <tr>
