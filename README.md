@@ -27,6 +27,19 @@ Fueled by ☕ caffeine, 📚 curiosity, and a passion for **innovation**.
 
 ## ⚡ Skills & Technologies
 
+### **Backend & DevOps**
+<p>
+    <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white"/>
+</p>
+
 ### **Web Development**
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
@@ -41,19 +54,7 @@ Fueled by ☕ caffeine, 📚 curiosity, and a passion for **innovation**.
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
 </p>
 
-### **Backend & DevOps**
-<p>
-    <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white"/>
-</p>
+
 
 ### **Miscellaneous**
 <p>
