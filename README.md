@@ -36,9 +36,6 @@ Fueled by ☕ caffeine, 📚 curiosity, and a passion for **innovation**.
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
@@ -46,23 +43,21 @@ Fueled by ☕ caffeine, 📚 curiosity, and a passion for **innovation**.
 
 ### **Backend & DevOps**
 <p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white"/>
 </p>
 
 ### **Miscellaneous**
 <p>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/>
 </p>
 
