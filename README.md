@@ -1,95 +1,53 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%" />
+# Vedant Bhavsar
 
-<!-- Profile Header -->
-<table width="100%">
-  <tr>
-    <td align="left" width="70%">
-      <a href="https://git.io/typing-svg" target="_blank">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=400&multiline=true&width=650&height=140&lines=%24+Hello👋🏼;I'm+Vedant+Bhawsar!;" alt="Typing SVG" />
-      </a>
-    </td>
-    <td align="center" width="30%">
-      <img src="https://komarev.com/ghpvc/?username=vedantbhawsar&style=for-the-badge" alt="Profile Views" />
-    </td>
-  </tr>
-</table>
+Full-stack engineer who ships production-shaped systems, not tutorial demos. I write the "why," not just the "what" — every project below has an architecture decision behind it that I can defend in detail.
+
+**Currently:** Frontend engineer at Sparrowhost, working on [likelife.ai](https://likelife.ai) (AI voice agent SaaS) and [simuphish.com](https://simuphish.com) (phishing-awareness training platform).
+
+**Building in public:** SaaS side-projects that solve real infra problems — webhook reliability, RAG search, video pipelines, link management — each one written up with the trade-offs spelled out, not just the feature list.
+
+📫 [vedantbhavsar.10@gmail.com](mailto:vedantbhavsar.10@gmail.com) · [LinkedIn](https://linkedin.com/in/vedantbhawsar) · [X/Twitter](https://x.com/vedantbhawsar) · [vedxnt.com](https://vedxnt.com)
 
 ---
 
-💡 **Turning imagination into reality** — designing seamless digital experiences, blending creativity with tech precision.  
-Fueled by ☕ caffeine, 📚 curiosity, and a passion for **innovation**.
+## What I'm building
 
-- 🚀 Focused on **Web Development, DevOps, and Cloud Engineering**.
-- 🛠 Exploring **Leadership & Product Management**.
-- 📸 Outside of code: **Love playing games**.
-- 🤔 Love discussion related to new technologies. on {https://cal.com/vedant-bhawsar-rckbca/book-a-google-meet-call}
----
+| Project | What it does | Stack |
+|---|---|---|
+| **[HookScope](https://github.com/VedantBhawsar/HookScope)** | Multi-tenant webhook observability platform — verifies, archives, forwards, and audits webhooks with replay and live alerts | Fastify, Express, Next.js, BullMQ, Redis, S3, Prisma, Turborepo |
+| **[DocSense](https://github.com/VedantBhawsar/DocSense)** | RAG platform — upload PDFs, get semantic search + streamed LLM answers over your own documents | Next.js, Express, BullMQ, pgvector, Drizzle, SSE |
+| **[ClipFlow](https://github.com/VedantBhawsar/ClipFlow)** | SaaS for YouTube creators — automates scheduling, thumbnails, and chapter timestamps from a single upload | Next.js, Express, BullMQ worker, Prisma, S3/R2, YouTube Data API |
+| **[Sniplink](https://github.com/VedantBhawsar/Sniplink)** | URL shortener with click analytics, geo-tracking, and Stripe billing, built for sub-millisecond redirects | Bun, Express, React 19, Redis, PostgreSQL (Neon), Prisma |
 
-## ⚡ Skills & Technologies
-
-### **Backend & DevOps**
-<p>
-    <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white"/>
-</p>
-
-### **Web Development**
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
-</p>
-
-
-
-### **Miscellaneous**
-<p>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/>
-</p>
-
-
-![](https://github-readme-stats.vercel.app/api?username=vedantbhawsar&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vedantbhawsar&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantbhawsar&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-<table>
-  <tr>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vedantbhawsar&theme=chartreuse_dark"/>
-    </td>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vedantbhawsar&theme=chartreuse_dark"/>
-    </td>
-  </tr>
-</table>
+Each repo's README documents the actual architecture — sequence diagrams, state machines, and a "why this and not that" section comparing the alternative I didn't pick. I'd rather you read those than a list of badges.
 
 ---
 
-## 📫 Connect with Me
-<p>
-  <a href="mailto:vedantbhavsar.10@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/vedantbhawsar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/vedantbhawsar"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
-  <a href="https://discord.gg/Vedant#6729"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" /></a>
-</p>
+## How I think about systems
+
+- **Decouple the hot path from the slow path.** Sniplink's redirect endpoint never blocks on a DB write; HookScope's webhook intake never waits on auth/CRUD traffic. Same idea, different repo.
+- **Durability has a cost — name it.** I use Redis as a queue when the infra is already there and the failure mode (a flushed cache before ack) is acceptable; I reach for Postgres-backed queues when it isn't.
+- **State machines over status flags.** ClipFlow's video pipeline is `UPLOADED → READY/SCHEDULED → PUBLISHING → PUBLISHED/PUBLISH_FAILED`, with every transition's failure path written down before I wrote the happy path.
+- **Auth that survives a real attacker.** httpOnly cookies over localStorage, JWT refresh rotation with theft detection, raw-body capture for HMAC verification before the body parser can mangle it.
 
 ---
 
-⭐ **[Vedant Bhawsar](https://github.com/vedantbhawsar)** — Let’s build the future together 🚀
+## Stack
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%" />
+**Core:** TypeScript · Next.js · NestJS · Node.js · Express
+
+**Data:** PostgreSQL · Drizzle · Prisma · pgvector · Redis
+
+**Infra:** Docker · AWS S3 · BullMQ · Turborepo · GitHub Actions
+
+**Frontend:** React 19 · Tailwind · shadcn/ui · TanStack Query · Zustand
+
+---
+
+## Outside of code
+
+Tracking crypto markets with technical analysis, deep in body-recomposition training (vegetarian, gym 5–6x/week), and posting build logs on [X](https://x.com/vedantbhawsar) as these projects ship.
+
+---
+
+<sub>Open to remote full-stack roles at early-stage product startups. Reach out if any of the above is relevant to what you're building.</sub>
