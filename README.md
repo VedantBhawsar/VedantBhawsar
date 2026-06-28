@@ -14,9 +14,9 @@ Full-stack engineer who ships production-shaped systems, not tutorial demos. I w
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[HookScope](https://github.com/VedantBhawsar/HookScope)** | Multi-tenant webhook observability platform — verifies, archives, forwards, and audits webhooks with replay and live alerts | Fastify, Express, Next.js, BullMQ, Redis, S3, Prisma, Turborepo |
+| **[HookScope](https://github.com/VedantBhawsar/HookScope)** | Multi-tenant webhook observability platform — verifies, archives, forwards, and audits webhooks with replay and live alerts (private) | Fastify, Express, Next.js, BullMQ, Redis, S3, Prisma, Turborepo |
 | **[DocSense](https://github.com/VedantBhawsar/DocSense)** | RAG platform — upload PDFs, get semantic search + streamed LLM answers over your own documents | Next.js, Express, BullMQ, pgvector, Drizzle, SSE |
-| **[ClipFlow](https://github.com/VedantBhawsar/ClipFlow)** | SaaS for YouTube creators — automates scheduling, thumbnails, and chapter timestamps from a single upload | Next.js, Express, BullMQ worker, Prisma, S3/R2, YouTube Data API |
+| **[ClipFlow](https://github.com/VedantBhawsar/ClipFlow)** | SaaS for YouTube creators — automates scheduling, thumbnails, and chapter timestamps from a single upload (private) | Next.js, Express, BullMQ worker, Prisma, S3/R2, YouTube Data API |
 | **[Sniplink](https://github.com/VedantBhawsar/Sniplink)** | URL shortener with click analytics, geo-tracking, and Stripe billing, built for sub-millisecond redirects | Bun, Express, React 19, Redis, PostgreSQL (Neon), Prisma |
 
 Each repo's README documents the actual architecture — sequence diagrams, state machines, and a "why this and not that" section comparing the alternative I didn't pick. I'd rather you read those than a list of badges.
